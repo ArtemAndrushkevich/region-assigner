@@ -1,5 +1,6 @@
 // Data for all 85 regions of the Russian Federation
 // Each region has an id, name, timezone, and optional assigned employee
+// Region IDs match the @react-jvectormap/russia map codes
 
 export interface RegionData {
   id: string;
